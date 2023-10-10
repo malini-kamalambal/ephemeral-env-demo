@@ -19,7 +19,7 @@ With this approach, every time a developer starts working on a new feature or bu
 - A Humanitec account (sign up for a free trial at https://humanitec.com/)
 - A created application in Humanitec
 
-## Getting Started
+## Getting Started:
 
  1. Fork this repository
  2. Set up a new application in Humanitec
