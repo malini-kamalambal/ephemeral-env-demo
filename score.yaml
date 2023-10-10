@@ -27,6 +27,8 @@ containers:
 resources:
   dns: # We need a DNS record to point to the service 
     type: dns
+  asset:
+    type: s3
   db:  # We need a database to store data
     type: postgres
     properties:
